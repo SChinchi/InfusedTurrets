@@ -1,0 +1,11 @@
+{
+  "name": "InfusedTurrets",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/schinchi/InfusedTurrets",
+  "description": "Engineer Turrets inherit Infusion HP bonus.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2113",
+    "RiskofThunder-HookGenPatcher-1.2.3",
+    "RiskofThunder-R2API_Core-5.0.12"
+  ]
+}
